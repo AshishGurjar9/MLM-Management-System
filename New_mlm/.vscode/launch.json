@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run MLM",
+      "request": "launch",
+      "mainClass": "MLM",
+      "classPaths": [
+        "${workspaceFolder}/lib/mysql-connector-j-8.0.33.jar"
+      ]
+    }
+  ]
+}
